@@ -1,0 +1,14 @@
+{
+  "name": "fudy-site",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "FUDY product catalogue. Static site for GitHub Pages with an owner admin that edits files in the repo.",
+  "scripts": {
+    "build": "node build.mjs",
+    "serve": "node scripts/serve.mjs",
+    "seed": "node scripts/seed.mjs"
+  },
+  "dependencies": { "react": "^19.0.0", "react-dom": "^19.0.0" },
+  "devDependencies": { "esbuild": "^0.25.0" }
+}

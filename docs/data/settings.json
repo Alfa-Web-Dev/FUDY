@@ -1,0 +1,21 @@
+{
+  "storeName": "FUDY",
+  "tagline": "Snacks made to be shared.",
+  "announcement": "New flavours are coming soon",
+  "currency": "INR",
+  "locale": "en-IN",
+  "lowStockAt": 10,
+  "stockDisplay": "exact",
+  "phone": "+00 00000 00000",
+  "whatsapp": "",
+  "email": "fudy.contact@gmail.com",
+  "formEmail": "fudy.contact@gmail.com",
+  "address": "Your stock point address goes here",
+  "hours": "Mon to Sat, 10:00 to 18:00",
+  "mapUrl": "",
+  "fssai": "",
+  "instagram": "",
+  "facebook": "",
+  "youtube": "",
+  "gallery": []
+}
